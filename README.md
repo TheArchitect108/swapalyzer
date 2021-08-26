@@ -1,16 +1,23 @@
-# thorswapalyzer
+# Swapalyzer of THOR
 
-A new Flutter project.
+A tool to help understand swaps on THORChain.
+
+https://swapalyzer.ofthor.com
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project users flutter for compilation across platforms with [null safety](https://dart.dev/null-safety). To get started, please see [flutter docs](https://flutter.dev/docs).
 
-A few resources to get you started if this is your first Flutter project:
+## Platforms Supported
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [x] Web
+- [x] Windows
+- [x] Linux
+- [x] MacOS
+- [x] iOS
+- [x] Android
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## WIP
+
+This tool and the contained midgard API package are considered to be works in progress and may not be complete or entirely accurate at this stage.
+
